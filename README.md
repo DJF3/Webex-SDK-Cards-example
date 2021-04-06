@@ -4,7 +4,7 @@ An example script to show you how to create Cards using the webexteamssdk librar
         
 # What does a card look like?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DJF3/Webex-SDK-Cards-example/blob/main/_image/cards-example.jpg?raw=true" width="600px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DJF3/Webex-SDK-Cards-example/blob/main/_image/cards-example.jpg?raw=true" width="400px">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DJF3/Webex-SDK-Cards-example/blob/main/_image/cards-layout.jpg?raw=true" width="600px">
 
