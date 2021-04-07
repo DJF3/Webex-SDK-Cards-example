@@ -62,4 +62,5 @@ To get support, please join this Webex Space that I actively monitor: https://eu
 
 # More like this?
 
-Will be announced in the "Webex Developer" LinkedIn group at: http://cs.co/webexdevlink 
+Will be announced in the _Webex Developer LinkedIn group_ at: http://cs.co/webexdevlink 
+And for all your Webex Developer resources, go to http://cs.co/webexdevinfo 
